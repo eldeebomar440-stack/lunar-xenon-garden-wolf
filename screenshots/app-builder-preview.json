@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Omar Tarek Eldeeb",
+      "hasCanvas": false,
+      "bodyTextLen": 1046,
+      "bodyTextHash": "b15007240c54acf67ef5328c19dc0c92d7bc0b96bef18033b2ae6ed2a0fff235",
+      "bodyTextPrefix": "ELDEEB ABOUT WORK TRAINING CONTACT Write 01 / SIGNAL CAIRO, EGYP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Omar Tarek Eldeeb",
+      "hasCanvas": false,
+      "bodyTextLen": 995,
+      "bodyTextHash": "bab0f21eb683fc51d6ec6f17712b15b476e714d9955ed7ade9507066e172a9c5",
+      "bodyTextPrefix": "ELDEEB 01 / SIGNAL CAIRO, EGYPT AI / ML Omar Tarek Eldeeb AI Eng",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
